@@ -1,6 +1,6 @@
-/* ===== Hangman Game — Custom Styles ===== */
 
-/* Make the page fill the full viewport height with a soft background */
+
+
 html, body {
   min-height: 100%;
 }
@@ -9,7 +9,7 @@ body {
   font-family: "Segoe UI", Roboto, Arial, sans-serif;
 }
 
-/* Word display (blanks and revealed letters) */
+
 .word-display {
   font-size: 2.25rem;
   letter-spacing: 0.6rem;
@@ -26,7 +26,7 @@ body {
 .msg-win  { color: #198754; }
 .msg-lose { color: #dc3545; }
 
-/* Small responsive tweak: reduce letter spacing on narrow screens */
+
 @media (max-width: 480px) {
   .word-display {
     font-size: 1.75rem;
