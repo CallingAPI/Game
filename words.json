@@ -1,0 +1,24 @@
+{
+  "words": [
+    { "word": "javascript", "hint": "A popular programming language used for web development" },
+    { "word": "bootstrap",  "hint": "A CSS framework used for responsive design" },
+    { "word": "computer",   "hint": "An electronic device that processes data" },
+    { "word": "internet",   "hint": "A global network connecting millions of devices" },
+    { "word": "Iphone",   "hint": "A popular smartphone" },
+    { "word": "elephant",   "hint": "The largest land animal" },
+    { "word": "Soccer",    "hint": "A popular sport played with a round ball" },
+    { "word": "airplane",   "hint": "A vehicle that flies in the sky" },
+    { "word": "hangman",    "hint": "The name of this very game" },
+    { "word": "umbrella",   "hint": "You use it when it rains" },
+    { "word": "Boutique",   "hint": "A small shop selling fashionable goods" },
+    { "word": "football",   "hint": "A popular sport played with a round ball" },
+    { "word": "Arsenal",   "hint": "A famous football club" },
+    { "word": "mountain",   "hint": "A very tall natural landform" },
+    { "word": "Docker",    "hint": "A global network connecting millions of devices" },
+    { "word": "Python",    "hint": "A popular programming language known for its simplicity" },
+    { "word": "Guitar",    "hint": "A musical instrument with strings" },
+    { "word": "Piano",      "hint": "A musical instrument with keys" },
+    { "word": "Rainbow",    "hint": "A colorful arc that appears in the sky after rain" },
+    { "word": "Chocolate",  "hint": "A sweet treat made from cocoa" }
+  ]
+}
